@@ -1,2 +1,2 @@
 # WHO-Data-Insights
-Project to practice preparing, analysing and deriving insigts from data pulled from an API
+In this project, I used Python to prepare, analyse and derive insights from data collected from the World Health Organization. This allowed me to practice skills in data preprocessing, statistical analysis, and data visualization, as well as enhance my ability to extract meaningful insights from real-world datasets. Additionally, it provided an opportunity to improve my proficiency in using Python libraries such as Pandas, NumPy, and Matplotlib.
